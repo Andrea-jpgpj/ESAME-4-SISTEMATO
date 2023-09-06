@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    max-width: 1500px;
+    background-color: paleturquoise;
+    font-family: 'Inder', cursive;
+}
+
+img {
+    max-width: 100%; text-align: center; 
+
+}
+header {
+    max-width: 1500px;
+    background-color: paleturquoise;
+    text-align: center; 
+}
+main h2.altro-titolo {
+    color: white;
+    text-align: center;
+    font-family: 'Inder', cursive;
+}
+ 
+

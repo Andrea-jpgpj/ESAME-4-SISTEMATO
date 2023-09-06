@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    max-width: 1500px;
+    background-color: paleturquoise;
+}
+
+h1 {text-align: center;
+    font-family: 'Inder', cursive;
+    margin-top: 20px;
+    
+}
+
+h2 {text-align: center;    
+    font-family: 'Inder', cursive;
+}
+
+img {text-align: center;
+    margin-top: 20px;
+    
+}
+header {
+    max-width: 1500px;
+    background-color: paleturquoise;  
+    text-align: center;
+    
+}
+main h2.altro-titolo {
+    color: white
+    }
+    
+h3{ text-align: center;     
+    font-family: 'Inder', cursive;  
+    color:red;
+    }    
+h4 { color: black;
+    text-align: left;
+    max-width: 820px;
+    margin: auto;
+    font-family: "Inder", cursive;
+ 
+}
+
+h6{ font-family: 'Inder', cursive;  
+    color:blue;
+    font-size: 19px;
+    text-align: left;
+    max-width: 540px;
+    margin: auto;
+    }    
+ 
